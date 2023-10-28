@@ -1,0 +1,6 @@
+Changelog file
+28-10-2023: First stable build of game
+Additions:
+- new reworked terrain for game
+- completed basic game mechanics
+- Full multiplayer mechanics and sync
