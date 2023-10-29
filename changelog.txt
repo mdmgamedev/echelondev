@@ -4,3 +4,9 @@ Additions:
 - new reworked terrain for game
 - completed basic game mechanics
 - Full multiplayer mechanics and sync
+29-10-2023: The Desert Update
+- New map area: the Desert
+- Added the inventory and healing potions
+- Pressing C will now heal your character (and will use a potion to do this)
+- Added cows as NPCs walking around the world
+- 
